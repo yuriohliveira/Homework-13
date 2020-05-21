@@ -10,4 +10,4 @@ In order to use this application as intended, you must have Node.js installed. Y
 
 You must also install mysql (for database interaction), express-handlebars (for the HTML views), and Express (for running a server on your machine), which you can install by calling `npm init` and `npm install` from the command line. For more detailed information, check out the documentation for [mysql](https://www.npmjs.com/package/mysql), [express-handlebars](https://www.npmjs.com/package/express-handlebars), and [Express](https://expressjs.com/). 
 
-To get the database up and running, you can use the schema and the seeds provided. I used [MySQL](https://dev.mysql.com/downloads/mysql/) with [MySQL Workbench](https://dev.mysql.com/downloads/workbench/) as an editor. 
+To get the database up and running, you can use the schema and the seeds provided. [MySQL](https://dev.mysql.com/downloads/mysql/) was used in this app, along with [MySQL Workbench](https://dev.mysql.com/downloads/workbench/) as an editor. 
